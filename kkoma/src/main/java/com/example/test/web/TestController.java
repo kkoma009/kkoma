@@ -17,6 +17,6 @@ public class TestController {
 	
 	@RequestMapping(value="list.do")
 	public String printString(Model model) {
-		return "list";
+		return "list22";
 	}
 }
